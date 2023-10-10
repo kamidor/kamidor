@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamidor
-- 👀 I’m interested in Coding, DevOps, Infrastructure As Code
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Coding, DevOps, Linux
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me kamidor@tuta.io
 
 <!---
